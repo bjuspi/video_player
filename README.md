@@ -1,3 +1,3 @@
 # video_player
 
-From staging branch
+From develop branch
