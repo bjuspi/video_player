@@ -28,7 +28,7 @@ def generate_frame(image,new_width=70):
 	sys.stdout.write(ascii_image)
 	os.system('cls' if os.name == 'nt' else 'clear')
 
-cap = cv2.VideoCapture(r"video_sample/Bad Apple.mp4")
+cap = cv2.VideoCapture(r"video_sample\hacking to the gate.mp4")
 
 while True:
 
